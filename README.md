@@ -8,7 +8,7 @@ We're using this webpage for two purposes:
 1. to practice positioning multiple CSS files using a single HTML file.
 
 ### Anna Goodwin: Dog Party
-<img src="https://user-images.githubusercontent.com/32857284/57201101-663fc480-6f51-11e9-9661-90c30963a994.png"
+<img src="https://user-images.githubusercontent.com/32857284/57201190-b53a2980-6f52-11e9-9bfb-4e2a78fe1916.png"
 alt="Anna Goodwin Dog Party"
 style="float: left; margin-right: 10px;" />
 
