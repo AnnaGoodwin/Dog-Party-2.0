@@ -1,0 +1,190 @@
+
+/*8. make trello list of things to do left on first comp*/
+/*9. change everything to kabob case */
+/*10. alphebetize properties */
+/*11. look into refactoring ul with A Site About Some Dogs? */
+/*12. make sure indentations and style guide requirements are met */
+/*13. finish phase 1 of dog party*/
+
+* {
+   font-family: 'Open Sans', sans-serif;
+   box-sizing: border-box;
+   margin: auto;
+   border: 1px;
+}
+
+body {
+   border-style: solid;
+   border-width: 2px;  
+}
+
+.icon {
+   width: 50px;
+   height: auto;
+   padding: 10px 5px 5px 5px;
+   margin-left: 20px;
+}
+
+nav {
+   height: 70px;
+   background-color: #75e2e6;
+   border-bottom: 2px solid #048eaa;
+}
+
+ul {
+   float: right;
+   padding-bottom: 12px;
+}
+
+li {
+   display: inline-block;
+   padding: 10px;
+   font-weight: 400px;
+}
+
+.nav-stuff li {
+   list-style-type: none;
+   margin-top: 25px;
+   font-weight: 400;
+}
+
+section {
+   background-image: url("images/park.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   position: relative;
+   padding-top: 10px;
+   background-color: lightgrey;
+   background-blend-mode: multiply;
+   /*background-position: center bottom;*/
+}
+
+.front-dog {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+   width: 30%;
+}
+
+.dog-info {
+   width: 30%;
+   margin: 0 auto;
+}
+
+.user-input {
+   width: 100%;
+   height: 44px;
+   margin-bottom: 20px;
+   border: 0;
+}
+
+.top-button {
+   width: 100%;
+   height: 50px;
+   margin-bottom: 10px;
+   background-color: #75e2e6;
+   font-size: 15px;
+}
+
+h1 {
+   color: white;
+}
+
+.first-heading {
+   font-weight: 400;
+}
+
+.some-dogs {
+   font-weight: 700;
+}
+
+.blue-scarf {
+   border-radius: 50%;
+   height: 230px;
+   border: 5px solid #048eaa;
+}
+
+p.name {
+   color: white;
+   text-align: left;
+}
+
+input {
+   font-size: 20px;
+}
+
+/*.div1 {
+   display: block;
+   margin-bottom: 25px;
+   width: 290px;
+   height: 60px;
+   margin-top: 10px;
+}*/
+
+.yellow-background, 
+.grey-background, 
+.lime-background {
+   border-radius: 50%;
+   height: 230px;
+   border: 5px solid #048eaa;
+}
+
+article {
+   text-align: center;
+}
+
+.column1, 
+.column2, 
+.column3 {
+   width: 25%;
+   text-align: center;
+   font-size: 20px;
+   display: inline-block;
+}
+
+.column {
+   /*margin: 0 40px;*/
+   padding: 50px;
+}
+
+
+.dog-text {
+   text-align: left;
+   padding: 30px;
+}
+
+.bottom-button {
+   width: 85%;
+   height: 50px;
+   font-size: 20px;
+   background-color: #048eaa;
+   color: white;   
+}
+
+h2 {
+   text-align: center;
+}
+
+.social-media {
+   background-color: #048eaa;
+   text-align: center;
+   margin-top: 50px;
+   padding: 50px;
+}
+
+.learn-text {
+   color: white;
+}
+
+.icons {
+   padding: 10px;
+   height: 50px;
+}
+
+@media screen and (max-width: 1000px) {
+  .column {
+   margin: 0 auto;
+   width: 50%
+   }
+}

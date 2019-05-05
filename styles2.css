@@ -1,0 +1,179 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+  
+}
+
+body {
+  height: 1500px;
+  margin: auto;
+  border: solid 2px;
+}
+
+header {
+  position: relative;
+  float: left;
+  height: 1528px;
+  width: 10%;
+  /*z-index: 2;*/
+  background-color: #9A969C;
+  border-bottom: 2px solid #048eaa;
+  border: solid 2px;
+}
+
+nav {
+  
+}
+
+.icons {
+  margin: 10px;
+}
+
+ul {
+  text-align: left;
+  font-weight: bold;
+  
+}
+
+li {
+  padding: 15px;
+}
+
+main {
+  margin-left: 150px;
+  width: 90%;
+  border: solid 2px;
+}
+
+section {
+  background-color: #3E3544;
+}
+
+.front-dog {
+
+}
+
+h1 {
+  color: #ffffff;
+}
+
+.first-heading {
+
+}
+
+span {
+
+}
+
+.some-dogs {
+
+}
+
+.blue-scarf {
+  border-radius: 50%;
+  height: 230px;
+  border: 5px solid #9A969C;
+  margin: 40px
+}
+
+form {
+  
+}
+
+.dog-info {
+
+}
+
+p {
+  
+}
+
+.name {
+  color: #ffffff;
+}
+
+input {
+
+}
+
+.user-input {
+
+}
+
+button {
+
+}
+
+.top-button {
+
+}
+
+article {
+
+}
+
+.column {
+
+}
+
+.column2 {
+
+}
+
+h2 {
+
+}
+
+.how-to-dog {
+
+}
+
+.what-is-dogs {
+
+}
+
+.facts-from-dog {
+
+}
+
+.yellow-background, 
+.grey-background, 
+.lime-background {
+  margin: 40px;
+  border-radius: 50%;
+  height: 230px;
+  border: 5px solid #9A969C;
+}
+
+.dog-text {
+
+}
+
+.bottom-button {
+  background-color: #3E3544;
+  color: #ffffff;
+}
+
+footer {
+  /*z-index: 1;*/
+  width: 90%;
+  background-color: #3E3544;
+  margin: auto 0;
+  height: 250px;
+  margin-left: 150px;
+}
+
+.social-media {
+
+}
+
+.learn-text {
+  color: #ffffff;
+}
